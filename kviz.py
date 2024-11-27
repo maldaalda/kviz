@@ -1,4 +1,4 @@
-import json
+
 
 # Soubor, kde se budou ukládat otázky
 FILENAME = "questions.json"
